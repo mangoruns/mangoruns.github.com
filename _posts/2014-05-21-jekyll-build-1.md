@@ -1,3 +1,13 @@
+---
+layout: post
+category: jekyll博客搭建(1)
+tagline: "build blog"
+tags: [jekyll]
+---
+{% include JB/setup %}
+
+[TOC]
+
 jekyll博客搭建(1)
 ================
 
