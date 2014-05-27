@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ❤碎碎念
-tagline: 即使抱歉常在，但至少不欠。
+tagline: too hot!!!
 ---
 {% include JB/setup %}
 
