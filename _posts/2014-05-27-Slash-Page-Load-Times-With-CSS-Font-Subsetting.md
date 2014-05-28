@@ -7,9 +7,6 @@ tags: [fontface]
 ---
 {% include JB/setup %}
 
-用CSS字体构造子集降低页面加载时间
-=============================
-
 网页字体增加了页面大小，花费大量网页加载时间，注重性能的开发者已经开始[优化他们的图片](http://demosthenes.info/blog/550/Site-Optimisation-Ultimate-Image-Compression-Tools)和[CSS](http://demosthenes.info/blog/686/CSS-Compression-Workflow)，优化网页字体对于我们来说也是有意义的
 
 一个好的消息是这个很容易：创建你的自定义字体或者为你的网页字体主机服务器提供一个简单的变量值，**你可以只加载你页面上所需要的文本的字体符号而不是字体中全部的字符**，数字和图形，来减少页面加载时间
